@@ -1,0 +1,15 @@
+{
+  "name": "projectviewiq",
+  "version": "1.0.0",
+  "description": "Automation projection for Insights module of the ViewIQ platform.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.17.0",
+    "mailosaur": "^9.0.0"
+  }
+}
